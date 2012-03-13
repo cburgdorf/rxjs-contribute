@@ -1,3 +1,10 @@
+/*
+* RxJS Contribute
+*
+* Copyright (c) 2012 Christoph Burgdorf (http://twitter.com/cburgdorf)
+* Licensed under the MIT (https://github.com/cburgdorf/rxjs-contribute/blob/master/license.txt) license.
+*/
+
 (function (global) {
 
     var root;
